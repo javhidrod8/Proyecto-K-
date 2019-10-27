@@ -1,0 +1,6 @@
+Division de trabajo
+	OliBa: Portada e Introduccion
+	Jose: info del dominio del problema
+	Gonzalo: descripcion primera parte
+	Javi: descripcion segunda parte
+	Nacho: Necesidades del negocio
