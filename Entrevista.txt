@@ -1,0 +1,43 @@
+entrevista:
+	Intro
+		alcance:preguntar
+	Objetivos
+		Diapositiva
+
+	Informacion del dominio
+		intro
+		glosario
+	Descripcion de la situacion -> preguntar situación.
+		pros y contras: 
+		Modelos de negocio: 
+		Entorno tecnologico: ya lo tenemos
+	Necesidades de negocio (REQUISITOS DE USUARIO)
+		Objetivos -> Preguntar en entrevista 
+		Modelos de procesos de negocio a implantar -> Pensar
+
+
+
+
+
+	PREGUNTAS:
+	objetivos de la empresa
+	Situación actual del negocio.
+	Inscripcion de alumnos
+	Ramas de aprendizaje y nivel (asignaturas y edades?)
+	¿Como estan contratados los profesores?
+	¿Como pagan los alumnos?
+	¿Como pagan a los profesores?
+	Redes sociales
+	¿Qué quiere conseguir con el proyecto? (objetivo)
+	
+	
+	 
+	
+	
+
+
+
+
+Preguntas profe:
+	-Que es el alcance: determina el alcance del proyecto a desarrollar --> si no nos metemos con la computacion de las nominas, hay que ponerlo en esta sección.
+
