@@ -66,7 +66,7 @@ Alcance</rem:name>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text>La organizacion puede llegar..</rem:text>
+<rem:text>Se trata de una agrupación de profesores dedicados a la práctica docente mediante grupos de aprendizaje. Todavía está en desarrollo por lo que está sujeta a diversos cambios. <br/>Los grupos de aprendizaje se van a dividir tanto por asignaturas como por el nivel académico que tengan los alumnos.<br/>Tiene estructura jerárquica, es decir, cada profesor va a ocupar un escalón en la jerarquía. Esta jerarquía se compone de 3 niveles y el docente puede estar y evolucionar dentro de ellas:<br/><br/>    1. Profesional: es el profesor que imparte las clases y va a cobrar             en función de las horas que trabaje.<br/>   <br/> 2. Profesional plus: además de cobrar por cada hora tiene un plus            que va a ser un beneficio que oscila entre el 10 y el 30% del                 beneficio que obtenga dentro de su rama.<br/><br/>    3. Profesional coordinador: es exactamente igual que el profesional          plus, pero además, va a ser el coordinador de profesores dentro           de su rama.<br/><br/>El nivel que conste en vigor solo podrá ser modificado bajo la firma del propietario del proyecto K+, Enrique Vázquez Franco.</rem:text>
 </rem:paragraph>
 </rem:section>
 <rem:section
@@ -86,6 +86,76 @@ Participantes del proyecto</rem:name>
 Ninguno</rem:comments>
 <rem:level>2</rem:level>
 <rem:number>1.2 </rem:number>
+<rem:section
+ oid = "SEC-0024">
+<rem:name>
+Organizaciones participantes</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:level>3</rem:level>
+<rem:number>1.2.1 </rem:number>
+<rem:paragraph
+ oid = "PRG-0004">
+<rem:name>
+Agrupación proyecto kplus</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>La organización participante es la agrupación de profesores K+.</rem:text>
+</rem:paragraph>
+</rem:section>
+<rem:section
+ oid = "SEC-0025">
+<rem:name>
+Personas participantes</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:level>3</rem:level>
+<rem:number>1.2.2 </rem:number>
+<rem:paragraph
+ oid = "PRG-0005">
+<rem:name>
+Personas</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>Los integrantes del proyecto K+ son los siguientes:<br/><br/>1. Oliva Sánchez Rodríguez<br/><br/>2. Ignacio José Rodríguez Flores<br/><br/>3. Javier Hidalgo Rodríguez<br/><br/>4. Jose Manuel Villegas García  <br/><br/>5. Gonzalo Fernández Jiménez </rem:text>
+</rem:paragraph>
+</rem:section>
 </rem:section>
 <rem:section
  oid = "SEC-0011">
@@ -104,6 +174,23 @@ Objetivos</rem:name>
 Ninguno</rem:comments>
 <rem:level>2</rem:level>
 <rem:number>1.3 </rem:number>
+<rem:paragraph
+ oid = "PRG-0006">
+<rem:name>
+Objetivos </rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>Hasta ahora, el propietario realiza todas las cuentas sobre un documento Excel. Tanto para calcular el sueldo de cada docente teniendo en cuenta que cada uno cobra un porcentaje distinto, como para calcular los beneficios totales.<br/><br/>Por otro lado, los alumnos deben inscribirse de forma manual también, asistiendo a la academia y rellenando allí los documentos oportunos.<br/><br/>El objetivo de nuestro proyecto es automatizar todas estas tareas, para que el propietario tenga una aplicación que le haga todos los cálculos directamente. Y por otro lado, crear una página web donde los alumnos puedan inscribirse y quedar a la espera para pertenecer a algún grupo de aprendizaje.</rem:text>
+</rem:paragraph>
 </rem:section>
 </rem:section>
 <rem:section
@@ -266,6 +353,76 @@ Entorno tecnológico actual</rem:name>
 Ninguno</rem:comments>
 <rem:level>2</rem:level>
 <rem:number>3.3 </rem:number>
+<rem:section
+ oid = "SEC-0022">
+<rem:name>
+Descripción del entorno de hardware actual</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:level>3</rem:level>
+<rem:number>3.3.1 </rem:number>
+<rem:paragraph
+ oid = "PRG-0002">
+<rem:name>
+Hardware para las inscripciones y contabilidad</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>El hardware utilizado en este momento por Kike para gestionar las inscripciones a las clases de los alumnos, así como la contabilidad de la asociación, es su propio PC. <br/>Kike realiza todas estas acciones a mano en su PC.</rem:text>
+</rem:paragraph>
+</rem:section>
+<rem:section
+ oid = "SEC-0023">
+<rem:name>
+Descripción del entorno de software actual</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:level>3</rem:level>
+<rem:number>3.3.2 </rem:number>
+<rem:paragraph
+ oid = "PRG-0003">
+<rem:name>
+Software para las inscripciones y contabilidad</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>La herramienta de software usada para llevas a cabo las gestiones mencionadas anteriormente es Excel. que es una herramienta de cálculo que permite implementar operaciones matemáticas y tablas. Es de software libre y fácil de usar, lo que facilita el trabajo de Kike en cierta medida.<br/>Nuestro objetivo es poder crear un software que no solo facilite este trabajo sino que lo pueda llegar a automatizar. </rem:text>
+</rem:paragraph>
+</rem:section>
 </rem:section>
 </rem:section>
 <rem:section
@@ -587,11 +744,17 @@ Hour:minutes:seconds</rem:description>
 </rem:predefinedValueType>
 </rem:predefinedValueTypes>
 <rem:predefinedValues>
-<rem:changeRequestStatusValue oid = "CRV-0002">
-<rem:name>pendiente de análisis</rem:name>
+<rem:changeRequestStatusValue oid = "CRV-0003">
+<rem:name>pendiente de aprobar/rechazar</rem:name>
 </rem:changeRequestStatusValue>
 <rem:changeRequestStatusValue oid = "CRV-0004">
 <rem:name>pendiente de realización</rem:name>
+</rem:changeRequestStatusValue>
+<rem:changeRequestStatusValue oid = "CRV-0002">
+<rem:name>pendiente de análisis</rem:name>
+</rem:changeRequestStatusValue>
+<rem:changeRequestStatusValue oid = "CRV-0001">
+<rem:name>PD</rem:name>
 </rem:changeRequestStatusValue>
 <rem:changeRequestStatusValue oid = "CRV-0005">
 <rem:name>verificado</rem:name>
@@ -599,26 +762,20 @@ Hour:minutes:seconds</rem:description>
 <rem:changeRequestStatusValue oid = "CRV-0006">
 <rem:name>rechazado</rem:name>
 </rem:changeRequestStatusValue>
-<rem:changeRequestStatusValue oid = "CRV-0001">
-<rem:name>PD</rem:name>
-</rem:changeRequestStatusValue>
-<rem:changeRequestStatusValue oid = "CRV-0003">
-<rem:name>pendiente de aprobar/rechazar</rem:name>
-</rem:changeRequestStatusValue>
+<rem:conflictStatusValue oid = "CSV-0003">
+<rem:name>en proceso de negociación</rem:name>
+</rem:conflictStatusValue>
 <rem:conflictStatusValue oid = "CSV-0004">
 <rem:name>resuelto</rem:name>
-</rem:conflictStatusValue>
-<rem:conflictStatusValue oid = "CSV-0001">
-<rem:name>PD</rem:name>
 </rem:conflictStatusValue>
 <rem:conflictStatusValue oid = "CSV-0002">
 <rem:name>no resuelto</rem:name>
 </rem:conflictStatusValue>
-<rem:conflictStatusValue oid = "CSV-0003">
-<rem:name>en proceso de negociación</rem:name>
+<rem:conflictStatusValue oid = "CSV-0001">
+<rem:name>PD</rem:name>
 </rem:conflictStatusValue>
-<rem:defectStatusValue oid = "DSV-0002">
-<rem:name>no eliminado</rem:name>
+<rem:defectStatusValue oid = "DSV-0004">
+<rem:name>eliminado</rem:name>
 </rem:defectStatusValue>
 <rem:defectStatusValue oid = "DSV-0003">
 <rem:name>en proceso de negociación</rem:name>
@@ -626,55 +783,19 @@ Hour:minutes:seconds</rem:description>
 <rem:defectStatusValue oid = "DSV-0001">
 <rem:name>PD</rem:name>
 </rem:defectStatusValue>
-<rem:defectStatusValue oid = "DSV-0004">
-<rem:name>eliminado</rem:name>
+<rem:defectStatusValue oid = "DSV-0002">
+<rem:name>no eliminado</rem:name>
 </rem:defectStatusValue>
-<rem:defectTypeValue oid = "DTV-0012">
-<rem:name>Incompleción</rem:name>
+<rem:defectTypeValue oid = "DTV-0009">
+<rem:name>Dependiente del diseño</rem:name>
 <rem:description>
-<![CDATA[El requisito o requisitos no describen todo lo que el sistema se supone que deberá hacer, no describen las respuestas del sistema a todas las posibles situaciones o incluyen elementos por determinar (PD)]]>
+<![CDATA[El requisito o requisitos incluyen elementos dependientes del diseño del sistema]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0013">
-<rem:name>Prioridad no establecida</rem:name>
+<rem:defectTypeValue oid = "DTV-0008">
+<rem:name>Verbosidad excesiva</rem:name>
 <rem:description>
-<![CDATA[El requisito o requisitos no tienen establecida su prioridad, es decir, su importancia y su urgencia]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0014">
-<rem:name>Estabilidad no establecida</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no tienen estimada su estabilidad]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0015">
-<rem:name>Nivel incorrecto de detalle</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no están expresados con el nivel adecuado de detalle, es decir, son demasiado abstractos o demasiado detallados]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0023">
-<rem:name>Otro</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos presentan otro tipo de defecto]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0016">
-<rem:name>No rastreabilidad</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no están trazados hacia sus orígenes, bien requisitos de nivel superior (objetivos), bien clientes y usuarios]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0017">
-<rem:name>Organización incorrecta</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no están organizados correctamente según la normativa aplicada o el documento no contiene las secciones obligatorias]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0004">
-<rem:name>Incomprensibilidad</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no pueden ser entendidos por algún lector]]>
+<![CDATA[El requisito o requisitos pueden expresarse de forma más concisa sin alterar su significado]]>
 </rem:description>
 </rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0005">
@@ -689,10 +810,76 @@ Hour:minutes:seconds</rem:description>
 <![CDATA[El requisito o requisitos no son consistentes, es decir, presentan contradicciones internas o entre varios]]>
 </rem:description>
 </rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0007">
+<rem:name>No implementabilidad</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no pueden ser implementados con la tecnología actual o dentro de un coste razonable]]>
+</rem:description>
+</rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0003">
 <rem:name>No necesidad</rem:name>
 <rem:description>
 <![CDATA[El requisito o requisitos no son necesarios porque no contribuyen a satisfacer ninguna necesidad de clientes o usuarios]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0004">
+<rem:name>Incomprensibilidad</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no pueden ser entendidos por algún lector]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0013">
+<rem:name>Prioridad no establecida</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no tienen establecida su prioridad, es decir, su importancia y su urgencia]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0014">
+<rem:name>Estabilidad no establecida</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no tienen estimada su estabilidad]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0010">
+<rem:name>Redundancia</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos son redundantes o contienen elementos redundantes]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0012">
+<rem:name>Incompleción</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no describen todo lo que el sistema se supone que deberá hacer, no describen las respuestas del sistema a todas las posibles situaciones o incluyen elementos por determinar (PD)]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0011">
+<rem:name>Imprecisión</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no se expresan de forma precisa, es decir, usando cantidades numéricas siempre que sea posible con el nivel adecuado de precisión]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0016">
+<rem:name>No rastreabilidad</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no están trazados hacia sus orígenes, bien requisitos de nivel superior (objetivos), bien clientes y usuarios]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0017">
+<rem:name>Organización incorrecta</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no están organizados correctamente según la normativa aplicada o el documento no contiene las secciones obligatorias]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0023">
+<rem:name>Otro</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos presentan otro tipo de defecto]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0015">
+<rem:name>Nivel incorrecto de detalle</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no están expresados con el nivel adecuado de detalle, es decir, son demasiado abstractos o demasiado detallados]]>
 </rem:description>
 </rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0001">
@@ -707,53 +894,23 @@ Hour:minutes:seconds</rem:description>
 <![CDATA[El requisito o requisitos, aunque comprensibles, tienen más de una interpretación posible]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0008">
-<rem:name>Verbosidad excesiva</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos pueden expresarse de forma más concisa sin alterar su significado]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0009">
-<rem:name>Dependiente del diseño</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos incluyen elementos dependientes del diseño del sistema]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0011">
-<rem:name>Imprecisión</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no se expresan de forma precisa, es decir, usando cantidades numéricas siempre que sea posible con el nivel adecuado de precisión]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0007">
-<rem:name>No implementabilidad</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no pueden ser implementados con la tecnología actual o dentro de un coste razonable]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0010">
-<rem:name>Redundancia</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos son redundantes o contienen elementos redundantes]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:importanceValue oid = "IMV-0003">
-<rem:name>importante</rem:name>
-</rem:importanceValue>
-<rem:importanceValue oid = "IMV-0004">
-<rem:name>quedaría bien</rem:name>
-</rem:importanceValue>
 <rem:importanceValue oid = "IMV-0002">
 <rem:name>vital</rem:name>
 </rem:importanceValue>
 <rem:importanceValue oid = "IMV-0001">
 <rem:name>PD</rem:name>
 </rem:importanceValue>
-<rem:stabilityValue oid = "SBV-0001">
-<rem:name>PD</rem:name>
-</rem:stabilityValue>
+<rem:importanceValue oid = "IMV-0003">
+<rem:name>importante</rem:name>
+</rem:importanceValue>
+<rem:importanceValue oid = "IMV-0004">
+<rem:name>quedaría bien</rem:name>
+</rem:importanceValue>
 <rem:stabilityValue oid = "SBV-0002">
 <rem:name>baja</rem:name>
+</rem:stabilityValue>
+<rem:stabilityValue oid = "SBV-0001">
+<rem:name>PD</rem:name>
 </rem:stabilityValue>
 <rem:stabilityValue oid = "SBV-0003">
 <rem:name>media</rem:name>
@@ -761,6 +918,9 @@ Hour:minutes:seconds</rem:description>
 <rem:stabilityValue oid = "SBV-0004">
 <rem:name>alta</rem:name>
 </rem:stabilityValue>
+<rem:statusValue oid = "STV-0002">
+<rem:name>en construcción</rem:name>
+</rem:statusValue>
 <rem:statusValue oid = "STV-0003">
 <rem:name>pendiente de verificación</rem:name>
 </rem:statusValue>
@@ -770,32 +930,26 @@ Hour:minutes:seconds</rem:description>
 <rem:statusValue oid = "STV-0004">
 <rem:name>pendiente de validación</rem:name>
 </rem:statusValue>
-<rem:statusValue oid = "STV-0002">
-<rem:name>en construcción</rem:name>
-</rem:statusValue>
 <rem:statusValue oid = "STV-0005">
 <rem:name>validado</rem:name>
 </rem:statusValue>
-<rem:terminationValue oid = "TEV-0001">
-<rem:name>PD</rem:name>
+<rem:terminationValue oid = "TEV-0002">
+<rem:name>continúa</rem:name>
 </rem:terminationValue>
 <rem:terminationValue oid = "TEV-0003">
 <rem:name>queda sin efecto</rem:name>
 </rem:terminationValue>
-<rem:terminationValue oid = "TEV-0002">
-<rem:name>continúa</rem:name>
+<rem:terminationValue oid = "TEV-0001">
+<rem:name>PD</rem:name>
 </rem:terminationValue>
+<rem:timeUnitValue oid = "TUV-0013">
+<rem:name>centésima(s) de segundo</rem:name>
+</rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0008">
 <rem:name>día(s)</rem:name>
 </rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0001">
-<rem:name>PD</rem:name>
-</rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0007">
 <rem:name>semana(s)</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0002">
-<rem:name>año(s)</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0009">
 <rem:name>hora(s)</rem:name>
@@ -803,26 +957,29 @@ Hour:minutes:seconds</rem:description>
 <rem:timeUnitValue oid = "TUV-0005">
 <rem:name>mes(es)</rem:name>
 </rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0014">
-<rem:name>milisegundo(s)</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0011">
-<rem:name>segundo(s)</rem:name>
-</rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0012">
 <rem:name>décima(s) de segundo</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0010">
 <rem:name>minuto(s)</rem:name>
 </rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0013">
-<rem:name>centésima(s) de segundo</rem:name>
+<rem:timeUnitValue oid = "TUV-0011">
+<rem:name>segundo(s)</rem:name>
 </rem:timeUnitValue>
-<rem:urgencyValue oid = "URV-0001">
+<rem:timeUnitValue oid = "TUV-0014">
+<rem:name>milisegundo(s)</rem:name>
+</rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0001">
 <rem:name>PD</rem:name>
-</rem:urgencyValue>
+</rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0002">
+<rem:name>año(s)</rem:name>
+</rem:timeUnitValue>
 <rem:urgencyValue oid = "URV-0003">
 <rem:name>hay presión</rem:name>
+</rem:urgencyValue>
+<rem:urgencyValue oid = "URV-0001">
+<rem:name>PD</rem:name>
 </rem:urgencyValue>
 <rem:urgencyValue oid = "URV-0002">
 <rem:name>inmediatamente</rem:name>

@@ -10,141 +10,6 @@
 <rem:description><![CDATA[Eliminado el objeto [SEC-0019]  con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0021</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0003</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [PRG-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [PRG-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0019</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento creado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento creado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0002</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [MET-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento creado]]></rem:description>
-</rem:change>
-<rem:change>
 <rem:type>D</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2019</rem:year>
@@ -160,25 +25,43 @@
 <rem:month>10</rem:month>
 <rem:day>25</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [SEC-0002]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
-<rem:year>2019</rem:year>
-<rem:month>10</rem:month>
-<rem:day>25</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0005] Alcance)]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [SEC-0019]  con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
-<rem:owner>SEC-0020</rem:owner><rem:date>
+<rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2019</rem:year>
 <rem:month>10</rem:month>
 <rem:day>25</rem:day>
 </rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
+<rem:description><![CDATA[Documento creado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>25</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [PRG-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>25</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [MET-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>25</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
@@ -190,40 +73,58 @@
 <rem:description><![CDATA[Documento creado]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0003</rem:owner><rem:date>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
 <rem:year>2019</rem:year>
 <rem:month>10</rem:month>
 <rem:day>25</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0014] Pros y contras de la situación actual)]]></rem:description>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
 <rem:year>2019</rem:year>
 <rem:month>10</rem:month>
 <rem:day>25</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0011] Objetivos)]]></rem:description>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0002</rem:owner><rem:date>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2019</rem:year>
 <rem:month>10</rem:month>
 <rem:day>25</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0013] Glosario de términos del dominio del problema)]]></rem:description>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0002</rem:owner><rem:date>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2019</rem:year>
 <rem:month>10</rem:month>
 <rem:day>25</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0012] Introducción al dominio del problema)]]></rem:description>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>25</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>25</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>D</rem:type>
@@ -235,48 +136,445 @@
 <rem:description><![CDATA[Eliminado el objeto [SEC-0019]  con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>25</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>25</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento creado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>25</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento creado]]></rem:description>
+</rem:change>
+<rem:change>
 <rem:type>D</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2019</rem:year>
 <rem:month>10</rem:month>
 <rem:day>25</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [SEC-0019]  con 0 hijos y 1 cambios]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [SEC-0002]  con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>SEC-0003</rem:owner><rem:date>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2019</rem:year>
 <rem:month>10</rem:month>
 <rem:day>25</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0015] Modelos de procesos de negocio actuales)]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [PRG-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [PRG-0003]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [PRG-0002]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [PRG-0002]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [PRG-0002]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0005</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0003</rem:owner><rem:date>
+<rem:owner>PRG-0004</rem:owner><rem:date>
 <rem:year>2019</rem:year>
 <rem:month>10</rem:month>
-<rem:day>25</rem:day>
+<rem:day>29</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 ([SEC-0016] Entorno tecnológico actual)]]></rem:description>
+<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [La organización participante es la agrupación de profesores K+.]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:owner>PRG-0006</rem:owner><rem:date>
 <rem:year>2019</rem:year>
 <rem:month>10</rem:month>
-<rem:day>25</rem:day>
+<rem:day>29</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 ([SEC-0021] Participantes del proyecto)]]></rem:description>
+<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [Hasta ahora, el propietario realiza todas las cuentas sobre un documento Excel. Tanto para calcular el sueldo de cada docente teniendo en cuenta que cada uno cobra un porcentaje distinto, como para calcular los beneficios totales.
+Por otro lado, los alumnos deben inscribirse de forma manual también, asistiendo a la academia y rellenando allí los documentos oportunos.
+El objetivo de nuestro proyecto es automatizar todas estas tareas, para que el propietario tenga una aplicación que le haga todos los cálculos directamente. Y por otro lado, crear una página web donde los alumnos puedan inscribirse y quedar a la espera para pertenecer a algún grupo de aprendizaje.]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>SEC-0001</rem:owner><rem:date>
+<rem:owner>PRG-0001</rem:owner><rem:date>
 <rem:year>2019</rem:year>
 <rem:month>10</rem:month>
-<rem:day>25</rem:day>
+<rem:day>29</rem:day>
 </rem:date>
-<rem:description><![CDATA[Intercambiados hijos nº2 ([SEC-0011] Objetivos) y nº3 ([SEC-0021] Participantes del proyecto)]]></rem:description>
+<rem:description><![CDATA[Propiedad [Text] actualizada [Se trata de una agrupación de profesores dedicados a la práctica docente mediante grupos de aprendizaje. Todavía está en desarrollo por lo que está sujeta a diversos cambios. 
+Los grupos de aprendizaje se van a dividir tanto por asignaturas como por el nivel académico que tengan los alumnos.
+Tiene estructura jerárquica, es decir, cada profesor va a ocupar un escalón en la jerarquía. Esta jerarquía se compone de 3 niveles y el docente puede estar y evolucionar dentro de ellas:
+    1. Profesional: es el profesor que imparte las clases y va a cobrar             en función de las horas que trabaje.
+    2. Profesional plus: además de cobrar por cada hora tiene un plus            que va a ser un beneficio que oscila entre el 10 y el 30% del                 beneficio que obtenga dentro de su rama.
+    3. Profesional coordinador: es exactamente igual que el profesional          plus, pero además, va a ser el coordinador de profesores dentro           de su rama.
+El nivel que conste en vigor solo podrá ser modificado bajo la firma del propietario del proyecto K+, Enrique Vázquez Franco.] -> [Se trata de una agrupación de profesores dedicados a la práctica docente mediante grupos de aprendizaje. Todavía está en desarrollo por lo que está sujeta a diversos cambios. 
+Los grupos de aprendizaje se van a dividir tanto por asignaturas como por el nivel académico que tengan los alumnos.
+Tiene estructura jerárquica, es decir, cada profesor va a ocupar un escalón en la jerarquía. Esta jerarquía se compone de 3 niveles y el docente puede estar y evolucionar dentro de ellas:
+
+    1. Profesional: es el profesor que imparte las clases y va a cobrar             en función de las horas que trabaje.
+   
+ 2. Profesional plus: además de cobrar por cada hora tiene un plus            que va a ser un beneficio que oscila entre el 10 y el 30% del                 beneficio que obtenga dentro de su rama.
+
+    3. Profesional coordinador: es exactamente igual que el profesional          plus, pero además, va a ser el coordinador de profesores dentro           de su rama.
+
+El nivel que conste en vigor solo podrá ser modificado bajo la firma del propietario del proyecto K+, Enrique Vázquez Franco.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0006</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [Hasta ahora, el propietario realiza todas las cuentas sobre un documento Excel. Tanto para calcular el sueldo de cada docente teniendo en cuenta que cada uno cobra un porcentaje distinto, como para calcular los beneficios totales.
+Por otro lado, los alumnos deben inscribirse de forma manual también, asistiendo a la academia y rellenando allí los documentos oportunos.
+El objetivo de nuestro proyecto es automatizar todas estas tareas, para que el propietario tenga una aplicación que le haga todos los cálculos directamente. Y por otro lado, crear una página web donde los alumnos puedan inscribirse y quedar a la espera para pertenecer a algún grupo de aprendizaje.] -> [Hasta ahora, el propietario realiza todas las cuentas sobre un documento Excel. Tanto para calcular el sueldo de cada docente teniendo en cuenta que cada uno cobra un porcentaje distinto, como para calcular los beneficios totales.
+
+Por otro lado, los alumnos deben inscribirse de forma manual también, asistiendo a la academia y rellenando allí los documentos oportunos.
+El objetivo de nuestro proyecto es automatizar todas estas tareas, para que el propietario tenga una aplicación que le haga todos los cálculos directamente. Y por otro lado, crear una página web donde los alumnos puedan inscribirse y quedar a la espera para pertenecer a algún grupo de aprendizaje.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0004</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0005</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [] -> [Los integrantes del proyecto K+ son los siguientes:
+
+1. Oliva Sánchez Rodríguez
+
+2. Ignacio José Rodríguez Flores
+
+3. Javier Hidalgo Rodríguez
+
+4. Jose Manuel Villegas García  
+
+5. Gonzalo Fernández Jiménez ]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0025</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0005] Personas)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0024</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0024</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([PRG-0004] Agrupación proyecto kplus)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [PRG-0005]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0001</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [La organizacion puede llegar..] -> [Se trata de una agrupación de profesores dedicados a la práctica docente mediante grupos de aprendizaje. Todavía está en desarrollo por lo que está sujeta a diversos cambios. 
+Los grupos de aprendizaje se van a dividir tanto por asignaturas como por el nivel académico que tengan los alumnos.
+Tiene estructura jerárquica, es decir, cada profesor va a ocupar un escalón en la jerarquía. Esta jerarquía se compone de 3 niveles y el docente puede estar y evolucionar dentro de ellas:
+    1. Profesional: es el profesor que imparte las clases y va a cobrar             en función de las horas que trabaje.
+    2. Profesional plus: además de cobrar por cada hora tiene un plus            que va a ser un beneficio que oscila entre el 10 y el 30% del                 beneficio que obtenga dentro de su rama.
+    3. Profesional coordinador: es exactamente igual que el profesional          plus, pero además, va a ser el coordinador de profesores dentro           de su rama.
+El nivel que conste en vigor solo podrá ser modificado bajo la firma del propietario del proyecto K+, Enrique Vázquez Franco.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>PRG-0006</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Text] actualizada [Hasta ahora, el propietario realiza todas las cuentas sobre un documento Excel. Tanto para calcular el sueldo de cada docente teniendo en cuenta que cada uno cobra un porcentaje distinto, como para calcular los beneficios totales.
+
+Por otro lado, los alumnos deben inscribirse de forma manual también, asistiendo a la academia y rellenando allí los documentos oportunos.
+El objetivo de nuestro proyecto es automatizar todas estas tareas, para que el propietario tenga una aplicación que le haga todos los cálculos directamente. Y por otro lado, crear una página web donde los alumnos puedan inscribirse y quedar a la espera para pertenecer a algún grupo de aprendizaje.] -> [Hasta ahora, el propietario realiza todas las cuentas sobre un documento Excel. Tanto para calcular el sueldo de cada docente teniendo en cuenta que cada uno cobra un porcentaje distinto, como para calcular los beneficios totales.
+
+Por otro lado, los alumnos deben inscribirse de forma manual también, asistiendo a la academia y rellenando allí los documentos oportunos.
+
+El objetivo de nuestro proyecto es automatizar todas estas tareas, para que el propietario tenga una aplicación que le haga todos los cálculos directamente. Y por otro lado, crear una página web donde los alumnos puedan inscribirse y quedar a la espera para pertenecer a algún grupo de aprendizaje.]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0025</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>PRG-0006</rem:owner><rem:date>
+<rem:year>2019</rem:year>
+<rem:month>10</rem:month>
+<rem:day>29</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 </rem:log>
