@@ -32,9 +32,9 @@ entrevista:
 				-Kike Martinez: acompañamiento educativo -> refuerzo academico, 						organizacion y tecnicas de estudio
 				-Juan: Fisica y quimica de bachiller y secundaria: acompañamiento 				       educativo y academico
 				-Hugo: Grado educacion primaria: fundamentos de ciencia de la materia, 				       fundamentos de naturaleza y geologia
-				 
+
 	Inscripcion de alumnos
-		contacto con Kike, explica como funciona, plazo para busqueda de grupo, si ya esta hecho se lo facilita. 		deciden horario con kike. envío presupuesto trimestral, calendario trimestral --> dias horas, horas 		total por mes y precio.
+		contacto con Kike, explica como funciona, plazo para busqueda de grupo, si ya esta hecho se lo facilita. 		deciden horario con kike. envío presupuesto trimestral, calendario trimestral --> dias horas, horas 				total por mes y precio.
 
 
 	Ramas de aprendizaje y nivel (asignaturas y edades?)
@@ -46,11 +46,11 @@ entrevista:
 	¿Como pagan a los profesores?
 		no sabe no contesta (En mano)
 	Redes sociales
-		No. Prefiere
+		No.
 	¿Qué quiere conseguir con el proyecto? (objetivo)
 		-Automatizacion de la gestion -> (declaración del IRFP) de la empresa. 
 		-Administración. 
-		-Generacion de horarios de profesores.		
+		-Generacion de horarios de profesores.	
 	
 	
 
