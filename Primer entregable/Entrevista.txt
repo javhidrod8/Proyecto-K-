@@ -1,0 +1,71 @@
+entrevista:
+	Intro
+		alcance:preguntar
+	Objetivos
+		Diapositiva
+
+	Informacion del dominio
+		intro
+		glosario
+	Descripcion de la situacion -> preguntar situación.
+		pros y contras: 
+		Modelos de negocio: 
+		Entorno tecnologico: ya lo tenemos
+	Necesidades de negocio (REQUISITOS DE USUARIO)
+		Objetivos -> Preguntar en entrevista 
+		Modelos de procesos de negocio a implantar -> Pensar
+
+
+
+
+
+	PREGUNTAS:
+	-objetivos de la empresa
+		CORTO: TERMINAR los programas de las ramas. --> registro de asignaturas
+		LARGO personal: Solo organizativo.
+
+	-Situación actual del negocio.
+
+		plantilla: kike --> 5 grupos en activo mates espec para maestros, didactica para la 					enseñanza
+			   4 profes "preactivos"  PREACTIVOS: ejercen pero no enseñan. Abierto plazo 						de inscripcion. 
+			   	-Ismael Crespo: Lectoescritura y sistema de numeracion decimal(+-x/).
+				-Kike Martinez: acompañamiento educativo -> refuerzo academico, 						organizacion y tecnicas de estudio
+				-Juan: Fisica y quimica de bachiller y secundaria: acompañamiento 				       educativo y academico
+				-Hugo: Grado educacion primaria: fundamentos de ciencia de la materia, 				       fundamentos de naturaleza y geologia
+
+	Inscripcion de alumnos
+		contacto con Kike, explica como funciona, plazo para busqueda de grupo, si ya esta hecho se lo facilita. 		deciden horario con kike. envío presupuesto trimestral, calendario trimestral --> dias horas, horas 				total por mes y precio.
+
+
+	Ramas de aprendizaje y nivel (asignaturas y edades?)
+		Edades no definidas. Edad academica
+	¿Como estan contratados los profesores?
+		no sabe no contesta.
+	¿Como pagan los alumnos?
+		mano o bizum.
+	¿Como pagan a los profesores?
+		no sabe no contesta (En mano)
+	Redes sociales
+		No.
+	¿Qué quiere conseguir con el proyecto? (objetivo)
+		-Automatizacion de la gestion -> (declaración del IRFP) de la empresa. 
+		-Administración. 
+		-Generacion de horarios de profesores.	
+	
+	
+
+
+
+
+
+
+	Segunda grabación: eliminar ultimo minutos. 
+	Tercera grabacion: eliminar ultimos minutos.
+
+	Preguntar al profesor: buscar ayuda.
+
+
+Preguntas profe:
+	-Que es el alcance: determina el alcance del proyecto a desarrollar --> si no nos metemos con la computacion de las nominas, hay que ponerlo en esta sección.
+
+	-Contrato de confidecialidad. 
