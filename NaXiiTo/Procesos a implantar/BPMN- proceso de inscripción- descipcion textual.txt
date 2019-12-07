@@ -1,0 +1,6 @@
+-En este proceso interviene el propitario de la organización y el demandante de la inscripción.
+-El proceso comienza cuando el demandante envía una solicitud.Entonces, el propietarios comprobará si hay plazas disponible para la materia y nivel solicitados.
+-En caso negativo, se le enviará al demandante el mensaje de que su solicitud no ha sido aceptada, y se finalizará el proceso.
+-En caso afirmativo, se le enviará al demandante un formulario a complementar con sus datos.
+-Cuando se reciban los datos, se le inscribirá y se le mandará un mensaje de confimación con informacion relevante.
+- El procesor finalizará una vez mandado el mensaje. 
