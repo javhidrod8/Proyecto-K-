@@ -1,0 +1,7 @@
+-En el proceso para la comunicación y la resolución de dudas, intervienen los alumnos y los profesionales que estén relacionados con el grupo al que pertenezca el alumno.
+-Este proceso se inicia cuando los profesionales reciben un mensaje por parte de un alumno.
+-Tras recibirlo, lo analizan y se comunican entre ellos para intentar llegar a una solución. 
+-Dicha posible solución es publicada en el grupo  de la plataforma, para posteriormente preguntarle al alumno si realmente se le solucionó su duda. 
+-De ser un sí la respuesta del alumno, el proceso termina. 
+-De ser un no, se trata de acordar una cita personal con el alumno, para ver si se puede solucionar en persona, dedicándole más tiempo. 
+-Tras esto, el proceso termina.
