@@ -1,0 +1,10 @@
+-	En el proceso de contratación interviene el propietario y el profesional con el que contacte.
+-	El proceso empieza cuando al propietario le surge la necesidad de contratar algún profesional.
+	Busca en su agenda alguien que le pueda servir, y contacta con él, enviándole un mensaje o una llamada para comunicarle su oferta de trabajo.
+	En este punto, se queda esperando una respuesta del profesional. Si el profesional no responde en 1 semana, vuelve a contactarle.
+	Si ya han pasado 4 semanas y sigue sin responder, se dispone a buscar de nuevo en su agenda de profesionales y reinicia el proceso.
+-	Una vez le llega al profesional la oferta, puede aceptarla o denegarla. 
+	En ambos casos, se le enviaría un mensaje con la aceptación o la denegación de la oferta al propietario. 
+	Si acepta la oferta, se queda esperando a que le llegue el contrato para firmarlo. Una vez le llega, lo firma y se lo envía al propietario, además de quedarse una copia para sí mismo. 
+-	El propietario, tras recibir la respuesta, comprueba si es positiva o negativa. De ser negativa, volvería a la actividad de búsqueda en su agenda. 
+	Si es positiva, envía el contrato para que lo firme el profesional. Tras recibir el contrato firmado, inscribe al profesional en la plataforma y termina el proceso.
