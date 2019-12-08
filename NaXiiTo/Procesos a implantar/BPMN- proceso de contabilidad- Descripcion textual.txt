@@ -1,0 +1,10 @@
+
+-	En este proceso han de intervenir los alumnos y el propietario de la organización.
+-	El propietario es quien inicia el proceso, en la última semana de cada mes.
+-	Entonces comunica a traves de la plataforma sobre el pago de la mensualidad.Aquí, se queda esperando a que los alumnos le manden la cuota mensual.
+	Si tras pasar una semana no la ha recibido, le apunta un strike a ese alumno.
+	Al llegar a 3 strikes, se le inhabilitaría. 
+	Una vez las haya recibido todas o hayan pasado estas 3 semanas, genera un informe de pago recibido de cada alumno.
+	Esta actividad simplemente genera y envía dicho documento al alumno. 
+-	Ahora, pasa a generar el documento de contabilidad final de la organización, y se guarda este documento para sí mismo.
+-	El proceso termina cuando se haya generado el documento de contabilidad de la organización. 
