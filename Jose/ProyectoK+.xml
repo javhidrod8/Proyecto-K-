@@ -105,26 +105,6 @@ Organizaciones participantes</rem:name>
 Ninguno</rem:comments>
 <rem:level>3</rem:level>
 <rem:number>1.2.1 </rem:number>
-<rem:stakeholder
- oid = "STK-0001">
-<rem:name>
-Enrique Vázquez Franco</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2019</rem:year>
-<rem:month>11</rem:month>
-<rem:day>3</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>
-Ninguno</rem:comments>
-<rem:stakeholderRole><rem:ref oid="GLO-0008">Propietario</rem:ref></rem:stakeholderRole>
-<rem:isCustomer/>
-<rem:isUser/>
-<rem:worksFor organization = "ORG-0001"/>
-</rem:stakeholder>
 <rem:organization
  oid = "ORG-0001">
 <rem:name>
@@ -145,6 +125,25 @@ Ninguno</rem:comments>
 <rem:telephone>698495652</rem:telephone>
 <rem:fax></rem:fax>
 </rem:organization>
+<rem:organization
+ oid = "ORG-0002">
+<rem:name>
+IR-G3-ADT-01</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>11</rem:month>
+<rem:day>3</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:address>Universidad de Sevilla</rem:address>
+<rem:telephone>954306687</rem:telephone>
+<rem:fax></rem:fax>
+</rem:organization>
 </rem:section>
 <rem:section
  oid = "SEC-0025">
@@ -163,6 +162,26 @@ Personas participantes</rem:name>
 Ninguno</rem:comments>
 <rem:level>3</rem:level>
 <rem:number>1.2.2 </rem:number>
+<rem:stakeholder
+ oid = "STK-0001">
+<rem:name>
+Enrique Vázquez Franco</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>11</rem:month>
+<rem:day>3</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:stakeholderRole><rem:ref oid="GLO-0008">Propietario</rem:ref></rem:stakeholderRole>
+<rem:isCustomer/>
+<rem:isUser/>
+<rem:worksFor organization = "ORG-0001"/>
+</rem:stakeholder>
 <rem:stakeholder
  oid = "STK-0002">
 <rem:name>
@@ -436,7 +455,7 @@ Ninguno</rem:comments>
 <rem:glossaryItem
  oid = "GLO-0009">
 <rem:name>
-<rem:ref oid="GLO-0009">Profesional coordinador</rem:ref></rem:name>
+<rem:ref oid="GLO-0009">Profesional coordinador</rem:ref>, <rem:ref oid="GLO-0009">Profesionales coordinadores</rem:ref></rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
@@ -569,6 +588,23 @@ Ninguno</rem:comments>
 Ninguno</rem:comments>
 <rem:text> Personal dedicado a la gestión y organización de los documentos y a la realización del trabajo administrativo</rem:text>
 </rem:glossaryItem>
+<rem:glossaryItem
+ oid = "GLO-0049">
+<rem:name>
+<rem:ref oid="GLO-0049">Strike</rem:ref></rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>Aviso proporcionado al <rem:ref oid="GLO-0032">Alumno</rem:ref> por impago de la cuota pre-definida</rem:text>
+</rem:glossaryItem>
 </rem:section>
 </rem:section>
 <rem:section
@@ -639,10 +675,10 @@ Fortalezas de la situación</rem:name>
 Ninguno</rem:comments>
 <rem:level>3</rem:level>
 <rem:number>3.1.1 </rem:number>
-<rem:paragraph
- oid = "PRG-0019">
+<rem:glossaryItem
+ oid = "GLO-0019">
 <rem:name>
-FOR-001-Flexibilidad</rem:name>
+<rem:ref oid="GLO-0019">FOR-001-Flexibilidad</rem:ref></rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
@@ -654,12 +690,12 @@ FOR-001-Flexibilidad</rem:name>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text>Al tratarse de la union de varios profesores con especialidades y conocimientos diferentes, es facil cubrir huecos o crear nuevas materias con los mismos profesores. Al estilo de un colegio o un instituto, algunos profesores pueden adaptarse a la demanda de materias relacionadas con su campo.</rem:text>
-</rem:paragraph>
-<rem:paragraph
- oid = "PRG-0020">
+<rem:text> Al tratarse de la union de varios profesores con especialidades y conocimientos diferentes, es facil cubrir huecos o crear nuevas materias con los mismos profesores. Al estilo de un colegio o un instituto, algunos profesores pueden adaptarse a la demanda de materias relacionadas con su campo.</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem
+ oid = "GLO-0020">
 <rem:name>
-FOR-002-Estabilidad</rem:name>
+<rem:ref oid="GLO-0020">FOR-002-Estabilidad</rem:ref></rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
@@ -671,8 +707,8 @@ FOR-002-Estabilidad</rem:name>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text>Al no ser una academia y no estar restringido a dar una materia o una <rem:ref oid="GLO-0013">rama</rem:ref> de conocimiento, es improbable que el devenir de las modas, la necesidad de viajar o los cambios en el sistema educativo afecte gravemente al negocio. Ya que este se basa en oferta y demanda, si aumenta o disminuye la necesidad de una materia tienen la capacidad de adaptarse.</rem:text>
-</rem:paragraph>
+<rem:text> Al no ser una academia y no estar restringido a dar una materia o una <rem:ref oid="GLO-0013">rama</rem:ref> de conocimiento, es improbable que el devenir de las modas, la necesidad de viajar o los cambios en el sistema educativo afecte gravemente al negocio. Ya que este se basa en oferta y demanda, si aumenta o disminuye la necesidad de una materia tienen la capacidad de adaptarse.</rem:text>
+</rem:glossaryItem>
 </rem:section>
 <rem:section
  oid = "SEC-0020">
@@ -691,10 +727,10 @@ Debilidades de la situación </rem:name>
 Ninguno</rem:comments>
 <rem:level>3</rem:level>
 <rem:number>3.1.2 </rem:number>
-<rem:paragraph
- oid = "PRG-0021">
+<rem:glossaryItem
+ oid = "GLO-0021">
 <rem:name>
-DEB-001-Problemas con las Cuentas</rem:name>
+<rem:ref oid="GLO-0021">DEB-001-Problemas con las Cuentas</rem:ref></rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
@@ -706,12 +742,12 @@ DEB-001-Problemas con las Cuentas</rem:name>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text>Las cuentas de todos los profesores se llevan a cabo a través de un excel o en papel, todo a mano. Esto tiene el problema de ser algo muy tedioso y le lleva a Enrique más tiempo del que debería.</rem:text>
-</rem:paragraph>
-<rem:paragraph
- oid = "PRG-0022">
+<rem:text> Las cuentas de todos los profesores se llevan a cabo a través de un excel o en papel, todo a mano. Esto tiene el problema de ser algo muy tedioso y le lleva a Enrique más tiempo del que debería.</rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem
+ oid = "GLO-0022">
 <rem:name>
-DEB-002-Problema con las Inscripciones</rem:name>
+<rem:ref oid="GLO-0022">DEB-002-Problema con las Inscripciones</rem:ref></rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
@@ -723,12 +759,12 @@ DEB-002-Problema con las Inscripciones</rem:name>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text>Las inscripciones se llevan a cabo en persona, donde el encargado es el propio Enrique, el cual pregunta paso por paso todo lo necesario para completar la solicitud del cliente. Esto tiene el gran inconveniente de depositar demasiada carga de trabajo sobre el <rem:ref oid="GLO-0008">propietario</rem:ref> e impedirle realizar otras funciones organizativas.<br/></rem:text>
-</rem:paragraph>
-<rem:paragraph
- oid = "PRG-0023">
+<rem:text> Las inscripciones se llevan a cabo en persona, donde el encargado es el propio Enrique, el cual pregunta paso por paso todo lo necesario para completar la solicitud del cliente. Esto tiene el gran inconveniente de depositar demasiada carga de trabajo sobre el <rem:ref oid="GLO-0008">propietario</rem:ref> e impedirle realizar otras funciones organizativas.<br/></rem:text>
+</rem:glossaryItem>
+<rem:glossaryItem
+ oid = "GLO-0023">
 <rem:name>
-DEB-003-Aislamiento del mundo virtual</rem:name>
+<rem:ref oid="GLO-0023">DEB-003-Aislamiento del mundo virtual</rem:ref></rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
@@ -740,8 +776,8 @@ DEB-003-Aislamiento del mundo virtual</rem:name>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text>Debido a que es un negocio que acaba de comenzar su presencia en la web es baja, por no decir nula. Esto puede peligrar el futuro del negocio ya que es improbable que mantenga su competitividad si no se promociona por la red.</rem:text>
-</rem:paragraph>
+<rem:text> Debido a que es un negocio que acaba de comenzar su presencia en la web es baja, por no decir nula. Esto puede peligrar el futuro del negocio ya que es improbable que mantenga su competitividad si no se promociona por la red.</rem:text>
+</rem:glossaryItem>
 </rem:section>
 </rem:section>
 <rem:section
@@ -793,7 +829,7 @@ Actores de Negocio</rem:name>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text>De entre todas las personas que forman el negocio se presentan en los siguientes roles:<br/><br/>Propietarios: donde se incluye únicamente a Enrique Vázquez Franco.<br/><rem:ref oid="GLO-0011">Profesionales</rem:ref><br/><rem:ref oid="GLO-0010">Profesionales+</rem:ref><br/><rem:ref oid="GLO-0011">Profesionales</rem:ref> Coordinadores<br/><rem:ref oid="GLO-0031">Secretario</rem:ref><br/><br/>Estos roles solo pueden ser elegidos o modificados por el <rem:ref oid="GLO-0008">propietario</rem:ref>, es decir Enrique</rem:text>
+<rem:text>De entre todas las personas que forman el negocio se presentan en los siguientes roles:<br/><br/>Propietarios: donde se incluye únicamente a Enrique Vázquez Franco.<br/><rem:ref oid="GLO-0011">Profesionales</rem:ref><br/><rem:ref oid="GLO-0010">Profesionales+</rem:ref><br/><rem:ref oid="GLO-0009">Profesionales Coordinadores</rem:ref><br/><rem:ref oid="GLO-0031">Secretario</rem:ref><br/><br/>Estos roles solo pueden ser elegidos o modificados por el <rem:ref oid="GLO-0008">propietario</rem:ref>, es decir Enrique</rem:text>
 </rem:paragraph>
 </rem:section>
 <rem:section
@@ -883,7 +919,7 @@ Ninguno</rem:comments>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text><br/><br/>-En este proceso han de intervenir los <rem:ref oid="GLO-0032">alumnos</rem:ref> y el <rem:ref oid="GLO-0008">propietario</rem:ref> de la organización.<br/><br/>-El <rem:ref oid="GLO-0008">propietario</rem:ref> es quien inicia el proceso, en la última semana de cada mes.<br/><br/>-Entonces, en las clases, va comentando a los <rem:ref oid="GLO-0032">alumnos</rem:ref> que deben pagar su mensualidad la semana siguiente. Aquí, se queda esperando a que los <rem:ref oid="GLO-0032">alumnos</rem:ref> le manden la cuota mensual. Si tras pasar una semana no la ha recibido, le apunta un strike a ese <rem:ref oid="GLO-0032">alumno</rem:ref>. Al llegar a 3 strikes, se le inhabilitaría. Una vez las haya recibido todas o hayan pasado estas 3 semanas, genera un informe de pago recibido de cada <rem:ref oid="GLO-0032">alumno</rem:ref>. Esta actividad simplemente genera y envía dicho documento al <rem:ref oid="GLO-0032">alumno</rem:ref>. <br/><br/>-Ahora, pasa a generar el documento de contabilidad final de la organización, y guarda una copia de este documento para sí mismo.<br/><br/>-El proceso termina cuando se haya generado el documento de contabilidad de la organización. <br/></rem:text>
+<rem:text><br/><br/>-En este proceso han de intervenir los <rem:ref oid="GLO-0032">alumnos</rem:ref> y el <rem:ref oid="GLO-0008">propietario</rem:ref> de la organización.<br/><br/>-El <rem:ref oid="GLO-0008">propietario</rem:ref> es quien inicia el proceso, en la última semana de cada mes.<br/><br/>-Entonces, en las clases, va comentando a los <rem:ref oid="GLO-0032">alumnos</rem:ref> que deben pagar su mensualidad la semana siguiente. Aquí, se queda esperando a que los <rem:ref oid="GLO-0032">alumnos</rem:ref> le manden la cuota mensual. Si tras pasar una semana no la ha recibido, le apunta un <rem:ref oid="GLO-0049">strike</rem:ref> a ese <rem:ref oid="GLO-0032">alumno</rem:ref>. Al llegar a 3 strikes, se le inhabilitaría. Una vez las haya recibido todas o hayan pasado estas 3 semanas, genera un informe de pago recibido de cada <rem:ref oid="GLO-0032">alumno</rem:ref>. Esta actividad simplemente genera y envía dicho documento al <rem:ref oid="GLO-0032">alumno</rem:ref>. <br/><br/>-Ahora, pasa a generar el documento de contabilidad final de la organización, y guarda una copia de este documento para sí mismo.<br/><br/>-El proceso termina cuando se haya generado el documento de contabilidad de la organización. <br/></rem:text>
 </rem:glossaryItem>
 <rem:graphicFile
  oid = "GRF-0012">
@@ -1045,6 +1081,44 @@ Software para las inscripciones y contabilidad</rem:name>
 Ninguno</rem:comments>
 <rem:text>La herramienta de software usada para llevas a cabo las gestiones mencionadas anteriormente es Excel. que es una herramienta de cálculo que permite implementar operaciones matemáticas y tablas. Es de software libre y fácil de usar, lo que facilita el trabajo de Enrique en cierta medida.<br/>Nuestro objetivo es poder crear un software que no solo facilite este trabajo sino que lo pueda llegar a automatizar. </rem:text>
 </rem:paragraph>
+<rem:graphicFile
+ oid = "GRF-0018">
+<rem:name>
+Entorno Software (Hoja Excel)</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:fileName>
+<![CDATA[.\Imagenes\HerramientaSoftware.png]]>
+</rem:fileName>
+</rem:graphicFile>
+<rem:graphicFile
+ oid = "GRF-0019">
+<rem:name>
+Entorno Software (Hoja Excel) II</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:fileName>
+<![CDATA[.\Imagenes\HerramientaSoft2.png]]>
+</rem:fileName>
+</rem:graphicFile>
 </rem:section>
 </rem:section>
 </rem:section>
@@ -1369,7 +1443,7 @@ Descripción contabilidad</rem:name>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text>-En este proceso han de intervenir los <rem:ref oid="GLO-0032">alumnos</rem:ref> y el <rem:ref oid="GLO-0008">propietario</rem:ref> de la organización.<br/>-El <rem:ref oid="GLO-0008">propietario</rem:ref> es quien inicia el proceso, en la última semana de cada mes.<br/>-Entonces comunica a traves de la plataforma sobre el pago de la mensualidad.Aquí, se queda esperando a que los <rem:ref oid="GLO-0032">alumnos</rem:ref> le manden la cuota mensual.<br/>-Si tras pasar una semana no la ha recibido, le apunta un strike a ese <rem:ref oid="GLO-0032">alumno</rem:ref>.<br/>-Al llegar a 3 strikes, se le inhabilitaría. <br/>-Una vez las haya recibido todas o hayan pasado estas 3 semanas, genera un informe de pago recibido de cada <rem:ref oid="GLO-0032">alumno</rem:ref>.<br/>-Esta actividad simplemente genera y envía dicho documento al <rem:ref oid="GLO-0032">alumno</rem:ref>. <br/>--Ahora, pasa a generar el documento de contabilidad final de la organización, y se guarda este documento para sí mismo.<br/>-El proceso termina cuando se haya generado el documento de contabilidad de la organización. <br/></rem:text>
+<rem:text>-En este proceso han de intervenir los <rem:ref oid="GLO-0032">alumnos</rem:ref> y el <rem:ref oid="GLO-0008">propietario</rem:ref> de la organización.<br/>-El <rem:ref oid="GLO-0008">propietario</rem:ref> es quien inicia el proceso, en la última semana de cada mes.<br/>-Entonces comunica a traves de la plataforma sobre el pago de la mensualidad.Aquí, se queda esperando a que los <rem:ref oid="GLO-0032">alumnos</rem:ref> le manden la cuota mensual.<br/>-Si tras pasar una semana no la ha recibido, le apunta un <rem:ref oid="GLO-0049">strike</rem:ref> a ese <rem:ref oid="GLO-0032">alumno</rem:ref>.<br/>-Al llegar a 3 strikes, se le inhabilitaría. <br/>-Una vez las haya recibido todas o hayan pasado estas 3 semanas, genera un informe de pago recibido de cada <rem:ref oid="GLO-0032">alumno</rem:ref>.<br/>-Esta actividad simplemente genera y envía dicho documento al <rem:ref oid="GLO-0032">alumno</rem:ref>. <br/>--Ahora, pasa a generar el documento de contabilidad final de la organización, y se guarda este documento para sí mismo.<br/>-El proceso termina cuando se haya generado el documento de contabilidad de la organización. <br/></rem:text>
 </rem:paragraph>
 <rem:graphicFile
  oid = "GRF-0007">
@@ -1699,7 +1773,7 @@ Ninguno</rem:comments>
 <rem:tbd/>
 </rem:stability>
 <rem:description>
-El sistema deberá permitir la gestión de contabilidad de la organización.</rem:description>
+permitir la gestión de contabilidad de los <rem:ref oid="GLO-0033">grupos</rem:ref> de aprendizaje.</rem:description>
 </rem:objective>
 <rem:objective
  oid = "OBJ-0012">
@@ -1782,7 +1856,7 @@ Diagrama de casos de uso</rem:name>
 <rem:comments>
 Ninguno</rem:comments>
 <rem:fileName>
-<![CDATA[.\Imagenes\UseCase.png]]>
+<![CDATA[.\Imagenes\UseCaseDiagram.png]]>
 </rem:fileName>
 </rem:graphicFile>
 </rem:section>
@@ -3206,7 +3280,7 @@ Ninguno</rem:comments>
 <rem:tbd/>
 </rem:stability>
 <rem:description>
-La información almacenada por el sistema debe cumplir que solo los <rem:ref oid="GLO-0011">profesionales</rem:ref> coordinadores puedan acceder a la información de las ramas que coordina.</rem:description>
+La información almacenada por el sistema debe cumplir que solo los <rem:ref oid="GLO-0009">profesionales coordinadores</rem:ref> puedan acceder a la información de las ramas que coordina.</rem:description>
 </rem:functionalRequirement>
 <rem:functionalRequirement
  oid = "FRQ-0003">
@@ -3349,7 +3423,7 @@ El sistema deberá, siendo <rem:ref oid="GLO-0035">administrador</rem:ref>, dar u
 <rem:functionalRequirement
  oid = "FRQ-0007">
 <rem:name>
-Informe para <rem:ref oid="GLO-0011">profesionales</rem:ref> coordinadores</rem:name>
+Informe para <rem:ref oid="GLO-0009">profesionales coordinadores</rem:ref></rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
@@ -3578,7 +3652,7 @@ Ninguno</rem:comments>
 <rem:tbd/>
 </rem:stability>
 <rem:description>
-asegurarse de que cualquier usuario puede acceder a cualquier funcionalidad básica de forma cómoda y natural.</rem:description>
+asegurarse de que cualquier usuario puede acceder a cualquier funcionalidad en máximo 4 pasos.</rem:description>
 </rem:nonFunctionalRequirement>
 <rem:nonFunctionalRequirement
  oid = "NFR-0004">
@@ -3657,36 +3731,6 @@ Ninguno</rem:comments>
 </rem:stability>
 <rem:description>
 deberá haber superado una cantidad notable de pruebas antes de cada actualización.</rem:description>
-</rem:nonFunctionalRequirement>
-<rem:nonFunctionalRequirement
- oid = "NFR-0006">
-<rem:name>
-Pruebas Rutinarias</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2019</rem:year>
-<rem:month>12</rem:month>
-<rem:day>8</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>
-Ninguno</rem:comments>
-<rem:importance>
-<rem:tbd/>
-</rem:importance>
-<rem:urgency>
-<rem:tbd/>
-</rem:urgency>
-<rem:status>
-<rem:tbd/>
-</rem:status>
-<rem:stability>
-<rem:tbd/>
-</rem:stability>
-<rem:description>
-pasar por diferentes pruebas de funcionalidad cada 6 meses.</rem:description>
 </rem:nonFunctionalRequirement>
 <rem:nonFunctionalRequirement
  oid = "NFR-0007">
@@ -3971,23 +4015,36 @@ Restricciones técnicas del sistema</rem:name>
 Ninguno</rem:comments>
 <rem:level>2</rem:level>
 <rem:number>6.5 </rem:number>
-<rem:glossaryItem
- oid = "GLO-0034">
+<rem:nonFunctionalRequirement
+ oid = "NFR-0014">
 <rem:name>
-<rem:ref oid="GLO-0034">RTS - 001 Hardware</rem:ref></rem:name>
+Hardware</rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
 <rem:date>
-<rem:year>2019</rem:year>
-<rem:month>12</rem:month>
-<rem:day>4</rem:day>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
 </rem:date>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text><br/>El sistema deberá respetar la siguiente restricción técnica: la organización solo dispone de un portátil personal del <rem:ref oid="GLO-0008">propietario</rem:ref> como soporte hardware, por lo que la base de datos estará contenida en ese portátil. Esto ocasiona que, si en un futuro el volumen de <rem:ref oid="GLO-0032">alumnos</rem:ref> aumenta considerablemente, la rapidez de la base de datos sea limitada.</rem:text>
-</rem:glossaryItem>
+<rem:importance>
+<rem:tbd/>
+</rem:importance>
+<rem:urgency>
+<rem:tbd/>
+</rem:urgency>
+<rem:status>
+<rem:tbd/>
+</rem:status>
+<rem:stability>
+<rem:tbd/>
+</rem:stability>
+<rem:description>
+El sistema deberá respetar la siguiente restricción técnica: la organización solo dispone de un portátil personal del <rem:ref oid="GLO-0008">propietario</rem:ref> como soporte hardware, por lo que la base de datos estará contenida en ese portátil. Esto ocasiona que, si en un futuro el volumen de <rem:ref oid="GLO-0032">alumnos</rem:ref> aumenta considerablemente, la rapidez de la base de datos sea limitada.</rem:description>
+</rem:nonFunctionalRequirement>
 </rem:section>
 <rem:section
  oid = "SEC-0037">
@@ -4410,8 +4467,36 @@ Ninguno</rem:comments>
 <rem:minute>30</rem:minute>
 </rem:time>
 <rem:place>Lugar </rem:place>
-<rem:results>Asuntos tratados en la reunión<br/><br/>- Situación actual del negocio:<br/>  Enrique <br/>- Sistema de <rem:ref oid="GLO-0046">inscripción de alumnos</rem:ref><br/>- Ramas de aprendizaje y nivel	<br/>- Contratación de profesores<br/>- Pago de <rem:ref oid="GLO-0032">alumnos</rem:ref><br/>- Pago de profesores<br/>- Proposición de redes sociales<br/>- Objetivos del proyecto<br/><br/><br/>Asuntos a tratar en la sigiente reunión<br/><br/>- Calendarios<br/>- Gestión de cuentas<br/>- Semi-automatización del proceso de inscripción de profesores y <rem:ref oid="GLO-0032">alumnos</rem:ref><br/>- Generación de todos los documentos de la organización (contratos, calendarios, horarios para los profesores...)<br/>- Atributos de todas las entidades del futuro sistema<br/><br/></rem:results>
-	<rem:attenders stakeholders ="STK-0001 STK-0003 STK-0002 STK-0004 STK-0005 STK-0006 "/>
+<rem:results>Asuntos tratados en la reunión<br/><br/>- Situación actual del negocio: <br/>  Enrique nos explicó que actualmente mantiene un flujo constante de <rem:ref oid="GLO-0032">alumnos</rem:ref> variando entre 3 y 7 <rem:ref oid="GLO-0033">grupos</rem:ref>, según la época academica.<br/>  También comentó que actualmente los <rem:ref oid="GLO-0032">alumnos</rem:ref> son universitarios, sobretodo de la facultad de magisterio, tanto de la US como del CEU.<br/><br/>- Sistema de <rem:ref oid="GLO-0046">inscripción de alumnos</rem:ref><br/>  Enrique expuso que el sistema de <rem:ref oid="GLO-0046">inscripción de alumnos</rem:ref> actualmente es puramente manual, presencial y ciertamente tedioso. Se le propuso facilitar ese proceso desde el sistema, y accedió.<br/><br/>- Ramas de aprendizaje y nivel: <br/>  Se comentó que actualmente se imparten 3 ramas diferentes, Matematicas Especificas para Maestros (MEM), Didáctica de las Matemáticas (DM) y Fundamentos Científicos de la Materia (FCM).<br/><br/>- Contratación de profesores:<br/>  Nos contó que los profesores se contrataban bajo necesidad, habitualmente busca recién egresados de la universidad con una actitud trabajadora.<br/><br/>- Pago de <rem:ref oid="GLO-0032">alumnos</rem:ref>:<br/>  El pago de los <rem:ref oid="GLO-0032">alumnos</rem:ref> se efectúa en mano. Se planteó implementar en el sistema un método de pago por transferencia bancaria. Se accedió sin mucho interés.<br/><br/>- Pago de profesores:<br/>  El pago de los profesores se efectúa en mano también. Se volvió a plantear, con la misma rerpuesta.<br/><br/>- Proposición de redes sociales<br/>  Se le propuso a Erique la posibilidad de mantenerle las redes sociales para así tener más visibilidad en la web, a lo que no accedió.<br/><br/>- Objetivos del proyecto:<br/>    Por último se habló de forma disternida sobre hacia donde apuntaba el proyecto, dejando constancia que se pretende ampliar las ramas de aprendizaje y la plantilla de profesores. <br/><br/><br/><br/>Asuntos a tratar en la sigiente reunión<br/><br/>- Calendarios<br/>- Gestión de cuentas<br/>- Semi-automatización del proceso de inscripción de profesores y <rem:ref oid="GLO-0032">alumnos</rem:ref><br/>- Generación de todos los documentos de la organización (contratos, calendarios, horarios para los profesores...)<br/>- Atributos de todas las entidades del futuro sistema<br/><br/></rem:results>
+	<rem:attenders stakeholders ="STK-0003 STK-0004 STK-0006 STK-0001 STK-0002 STK-0005 "/>
+</rem:meeting>
+<rem:meeting
+ oid = "MET-0002">
+<rem:name>
+Validación de las interfaces de usuario</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>19</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>7</rem:day>
+</rem:date>
+<rem:time>
+<rem:hour>12</rem:hour>
+<rem:minute>0</rem:minute>
+</rem:time>
+<rem:place>Aulas para los <rem:ref oid="GLO-0033">grupos</rem:ref> de aprendizaje K+</rem:place>
+<rem:results>Asuntos tratados en la reunión<br/><br/>-Interfaces de usuario<br/>  Se le han mostrado todas las interfaces de usuario a Enrique las cuales han cubierto satisfactoriamente las necesidades del <rem:ref oid="GLO-0011">profesional</rem:ref>.<br/>  Se nos ha propuesto realizar algunos cambios sobre la interfaz: <br/>  · Modificar la forma de desplegar al hacer click sobre algunos esquemas (p.e. <rem:ref oid="GLO-0013">Rama</rem:ref> -&gt; <rem:ref oid="GLO-0033">Grupo </rem:ref>-&gt; <rem:ref oid="GLO-0032">Alumno</rem:ref>) <br/>  ·Añadir las ramas ya superadas.<br/><br/><br/>Asuntos a tratar en la siguiente reunión<br/><br/>-Validación por parte de los usuarios del sistema restantes (<rem:ref oid="GLO-0032">alumnos</rem:ref> y <rem:ref oid="GLO-0011">profesionales</rem:ref>).<br/>-Validación del prototipo de interfaz de usuario funcional con Moodle.</rem:results>
+	<rem:attenders stakeholders ="STK-0003 STK-0004 STK-0006 STK-0001 STK-0002 STK-0005 "/>
 </rem:meeting>
 </rem:section>
 <rem:section
@@ -4447,7 +4532,7 @@ Programación Secuencial</rem:name>
 <rem:comments>
 Ninguno</rem:comments>
 <rem:fileName>
-<![CDATA[..\..\..\..\..\..\..\ProgramacionSec.png]]>
+<![CDATA[.\Imagenes\ProgSecuencial.png]]>
 </rem:fileName>
 </rem:graphicFile>
 <rem:graphicFile
@@ -4466,7 +4551,7 @@ Checklist de ejercicios </rem:name>
 <rem:comments>
 Ninguno</rem:comments>
 <rem:fileName>
-<![CDATA[..\..\..\..\..\..\..\HojaEjercicios.png]]>
+<![CDATA[.\Imagenes\ChecklistEjercicios.png]]>
 </rem:fileName>
 </rem:graphicFile>
 <rem:graphicFile
@@ -4485,7 +4570,7 @@ Calendario mensual de un grupo</rem:name>
 <rem:comments>
 Ninguno</rem:comments>
 <rem:fileName>
-<![CDATA[..\..\..\..\..\..\..\CalendarioMensual.png]]>
+<![CDATA[.\Imagenes\PresupuestosAlumnos.png]]>
 </rem:fileName>
 </rem:graphicFile>
 <rem:graphicFile
@@ -4504,7 +4589,7 @@ Informacion de grupo</rem:name>
 <rem:comments>
 Ninguno</rem:comments>
 <rem:fileName>
-<![CDATA[..\..\..\..\..\..\..\Horarios+mensualidades.png]]>
+<![CDATA[.\Imagenes\GruposAp.png]]>
 </rem:fileName>
 </rem:graphicFile>
 </rem:section>
@@ -4526,25 +4611,6 @@ Ninguno</rem:comments>
 <rem:level>1</rem:level>
 <rem:number>C </rem:number>
 </rem:section>
-<rem:organization
- oid = "ORG-0002">
-<rem:name>
-IR-G3-ADT-01</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2019</rem:year>
-<rem:month>11</rem:month>
-<rem:day>3</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>
-Ninguno</rem:comments>
-<rem:address>Universidad de Sevilla</rem:address>
-<rem:telephone>954306687</rem:telephone>
-<rem:fax></rem:fax>
-</rem:organization>
 </rem:c_requirementsSpecification>
 <rem:d_requirementsSpecification oid = "DRS-0002">
 <rem:name>Documento de Análisis del Sistema</rem:name>
@@ -4648,26 +4714,6 @@ Organizaciones participantes</rem:name>
 Ninguno</rem:comments>
 <rem:level>3</rem:level>
 <rem:number>1.2.1 </rem:number>
-<rem:stakeholder
- oid = "STK-0007">
-<rem:name>
-Enrique Vázquez Franco</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2019</rem:year>
-<rem:month>12</rem:month>
-<rem:day>8</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>
-Ninguno</rem:comments>
-<rem:stakeholderRole><rem:ref oid="GLO-0008">Propietario</rem:ref></rem:stakeholderRole>
-<rem:isCustomer/>
-<rem:isUser/>
-<rem:worksFor organization = "ORG-0001"/>
-</rem:stakeholder>
 <rem:organization
  oid = "ORG-0003">
 <rem:name>
@@ -4800,6 +4846,26 @@ Ninguno</rem:comments>
 <rem:stakeholderRole>Analista</rem:stakeholderRole>
 <rem:isDeveloper/>
 <rem:worksFor organization = "ORG-0002"/>
+</rem:stakeholder>
+<rem:stakeholder
+ oid = "STK-0007">
+<rem:name>
+Enrique Vázquez Franco</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2019</rem:year>
+<rem:month>12</rem:month>
+<rem:day>8</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:stakeholderRole><rem:ref oid="GLO-0008">Propietario</rem:ref></rem:stakeholderRole>
+<rem:isCustomer/>
+<rem:isUser/>
+<rem:worksFor organization = "ORG-0001"/>
 </rem:stakeholder>
 </rem:section>
 </rem:section>
@@ -4968,6 +5034,183 @@ Ninguno</rem:comments>
 </rem:graphicFile>
 </rem:section>
 </rem:section>
+<rem:section
+ oid = "SEC-0066">
+<rem:name>
+Interfaz de usuario del sistema</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:level>1</rem:level>
+<rem:number>4 </rem:number>
+<rem:section
+ oid = "SEC-0067">
+<rem:name>
+Diagramas de navegación del sistema</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:level>2</rem:level>
+<rem:number>4.1 </rem:number>
+<rem:graphicFile
+ oid = "GRF-0020">
+<rem:name>
+Diagrama de navegación I</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:fileName>
+<![CDATA[.\Imagenes\esquemaInterfazI.png]]>
+</rem:fileName>
+</rem:graphicFile>
+<rem:graphicFile
+ oid = "GRF-0021">
+<rem:name>
+Diagrama de navegación II</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:fileName>
+<![CDATA[.\Imagenes\EsquemaInterfazII.png]]>
+</rem:fileName>
+</rem:graphicFile>
+</rem:section>
+<rem:section
+ oid = "SEC-0068">
+<rem:name>
+Descripción de la interfaz de usuario del sistema</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:level>2</rem:level>
+<rem:number>4.2 </rem:number>
+<rem:paragraph
+ oid = "PRG-0050">
+<rem:name>
+Interfaz de entrada al sistema</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>La primera vista es la página principal, a la que puede acceder cualquier tipo de usuario. Desde esta página se puede conocer un poco la organización, que sería la segunda vista, o iniciar sesión, que sería la tercera vista.<br/>Desde la página de login podemos acceder como <rem:ref oid="GLO-0032">alumno</rem:ref>, como <rem:ref oid="GLO-0011">profesional</rem:ref> o como <rem:ref oid="GLO-0035">administrador</rem:ref>:<br/></rem:text>
+</rem:paragraph>
+<rem:paragraph
+ oid = "PRG-0051">
+<rem:name>
+Interfaz de <rem:ref oid="GLO-0035">administrador</rem:ref></rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>1. Al acceder como <rem:ref oid="GLO-0035">administrador</rem:ref>, nos llevará a una vista principal, donde el <rem:ref oid="GLO-0035">administrador</rem:ref> puede gestionar los <rem:ref oid="GLO-0032">alumnos</rem:ref>, los <rem:ref oid="GLO-0011">profesionales</rem:ref>, y las ramas de cada <rem:ref oid="GLO-0033">grupo </rem:ref>(vistas 4, 7 y 11 respectivamente). Desde el menú superior podemos acceder a cada uno de ellos para ver su información. Y además, el <rem:ref oid="GLO-0035">administrador</rem:ref> siempre tiene la opción de añadir, editar o eliminar a cada uno de ellos. Si el <rem:ref oid="GLO-0035">administrador</rem:ref> quiere añadir una nueva entidad, se le abrirá la vista del formulario correspondiente (vistas 5, 9, 12 y 15) para introducir los datos necesarios. Por otro lado, si el <rem:ref oid="GLO-0035">administrador</rem:ref> clica en una entidad en concreto (ya sea <rem:ref oid="GLO-0032">alumno</rem:ref>, <rem:ref oid="GLO-0011">profesional</rem:ref>, <rem:ref oid="GLO-0013">rama</rem:ref> o grupo) se abrirán las vistas 6, 10, 13 o 14 respectivamente, donde como hemos dicho antes el <rem:ref oid="GLO-0035">administrador</rem:ref> podrá gestionar todas estas entidades, además de poder enviar mensajes a cada una de ellas. Por último, el <rem:ref oid="GLO-0035">administrador</rem:ref> puede inhabilitar a un <rem:ref oid="GLO-0011">profesional</rem:ref> en cualquier momento, estos “desaparecerán” de las vistas principales, pero el <rem:ref oid="GLO-0035">administrador</rem:ref> puede rehabilitarlos cuando lo vea oportuno (vista número 8)<br/></rem:text>
+</rem:paragraph>
+<rem:paragraph
+ oid = "PRG-0052">
+<rem:name>
+Interfaz de <rem:ref oid="GLO-0032">alumno</rem:ref></rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>2. Al acceder como <rem:ref oid="GLO-0032">alumno</rem:ref>, nos llevará a una vista principal (vista 16), donde el <rem:ref oid="GLO-0032">alumno</rem:ref> puede editar su foto de perfil, acceder a los “recursos” donde estarán los documentos necesarios para comprender cierta materia, y puede acceder a cada uno de los <rem:ref oid="GLO-0033">grupos</rem:ref> en los que está matriculado. Para esta última opción, se abrirá otra vista (vista número 17), donde el <rem:ref oid="GLO-0032">alumno</rem:ref> puede ver qué profesor le da clase en ese grupo, cuál es su correo electrónico para comunicarse con él, consultar el horario de ese grupo, enviar y recibir mensajes y consultar la tabla de contenidos para ese grupo, donde encontrará las actividades, los temas y las tareas a realizar.<br/></rem:text>
+</rem:paragraph>
+<rem:paragraph
+ oid = "PRG-0053">
+<rem:name>
+Interfaz de <rem:ref oid="GLO-0011">profesional</rem:ref> y <rem:ref oid="GLO-0011">profesional</rem:ref> +</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>3. Al acceder como <rem:ref oid="GLO-0011">profesional</rem:ref>, nos llevará, del mismo modo a una vista principal (vista 18), donde el <rem:ref oid="GLO-0011">profesional</rem:ref> puede editar su foto de perfil, ver su horario personal, acceder a la biblioteca del grupo y subir documentos a ella, y por último, consultar los <rem:ref oid="GLO-0033">grupos</rem:ref> a los que imparte clase. Para esta última opción, se abrirá otra vista (vista 2), donde el <rem:ref oid="GLO-0011">profesional</rem:ref> puede consultar el horario de ese grupo, enviar y recibir mensajes, saber cuántos <rem:ref oid="GLO-0032">alumnos</rem:ref> hay en ese grupo, y además puede consultar el progreso de ese grupo.<br/></rem:text>
+</rem:paragraph>
+<rem:paragraph
+ oid = "PRG-0054">
+<rem:name>
+Intefaz de <rem:ref oid="GLO-0009">profesional coordinador</rem:ref></rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2020</rem:year>
+<rem:month>1</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:text>4. Al acceder como <rem:ref oid="GLO-0009">profesional coordinador</rem:ref>, nos llevará a una vista totalmente igual que la del <rem:ref oid="GLO-0011">profesional</rem:ref> básico (vista 20), pero además, podrá consultar las ramas que coordina. Desde esta vista, puede saber qué <rem:ref oid="GLO-0011">profesionales</rem:ref> imparten clase en cada grupo, y puede enviar mensajes tanto a un grupo concreto, como a todos los <rem:ref oid="GLO-0011">profesionales</rem:ref> de la <rem:ref oid="GLO-0013">rama</rem:ref>. Por último, puede entrar en cualquier grupo, ya sea uno al que él imparte clase, como uno al que no imparte clase pero que pertenece a la <rem:ref oid="GLO-0013">rama</rem:ref> que coordina. En este caso, accedería a la misma vista a la que accede un <rem:ref oid="GLO-0011">profesional</rem:ref> básico cuando accede a sus <rem:ref oid="GLO-0033">grupos</rem:ref>, y podría por tanto, comprobar que el <rem:ref oid="GLO-0011">profesional</rem:ref> está cumpliendo con los objetivos del grupo consultando el progreso (vista 21).</rem:text>
+</rem:paragraph>
+</rem:section>
+</rem:section>
 </rem:d_requirementsSpecification>
 <rem:defectsSpecification oid = "DFS-0003">
 <rem:name>Registro de Conflictos y Defectos</rem:name>
@@ -4999,67 +5242,52 @@ Ninguno
 Ninguno
 </rem:comments>
 </rem:changeRequestsSpecification>
-<rem:trace source = "UC-0001"  target = "PRG-0022" >
+<rem:trace source = "UC-0002"  target = "OBJ-0005" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "UC-0001"  target = "GLO-0022" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "UC-0001"  target = "GRF-0002" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "UC-0002"  target = "OBJ-0005" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "UC-0001"  target = "OBJ-0004" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "FRQ-0007"  target = "OBJ-0006" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "FRQ-0007"  target = "OBJ-0007" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0003"  target = "OBJ-0006" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0003"  target = "OBJ-0008" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0004"  target = "OBJ-0005" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0007"  target = "OBJ-0008" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "FRQ-0005"  target = "IRQ-0001" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "FRQ-0003"  target = "OBJ-0004" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "FRQ-0001"  target = "IRQ-0003" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0004"  target = "OBJ-0007" >
+<rem:trace source = "FRQ-0006"  target = "OBJ-0005" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "FRQ-0002"  target = "IRQ-0004" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "FRQ-0006"  target = "OBJ-0004" >
+<rem:trace source = "FRQ-0006"  target = "OBJ-0006" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "IRQ-0005"  target = "OBJ-0009" >
+<rem:trace source = "IRQ-0004"  target = "OBJ-0008" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "FRQ-0002"  target = "IRQ-0002" >
+<rem:trace source = "FRQ-0005"  target = "IRQ-0001" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "FRQ-0006"  target = "OBJ-0005" >
+<rem:trace source = "FRQ-0007"  target = "OBJ-0006" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0001"  target = "OBJ-0004" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "FRQ-0008"  target = "OBJ-0004" >
 <rem:isChecked/>
 </rem:trace>
+<rem:trace source = "IRQ-0003"  target = "OBJ-0008" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "FRQ-0007"  target = "OBJ-0007" >
+<rem:isChecked/>
+</rem:trace>
 <rem:trace source = "FRQ-0008"  target = "OBJ-0006" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "FRQ-0009"  target = "OBJ-0011" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0011"  target = "NFR-0007" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "UC-0001"  target = "OBJ-0007" >
@@ -5068,61 +5296,58 @@ Ninguno
 <rem:trace source = "UC-0002"  target = "OBJ-0006" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "UC-0002"  target = "OBJ-0007" >
+<rem:trace source = "FRQ-0004"  target = "IRQ-0002" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "UC-0003"  target = "OBJ-0004" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0002"  target = "OBJ-0005" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "FRQ-0004"  target = "IRQ-0003" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "FRQ-0006"  target = "OBJ-0006" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0006"  target = "OBJ-0009" >
+<rem:trace source = "FRQ-0006"  target = "OBJ-0004" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "FRQ-0007"  target = "OBJ-0004" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "FRQ-0006"  target = "OBJ-0007" >
+<rem:trace source = "UC-0002"  target = "OBJ-0007" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "FRQ-0009"  target = "OBJ-0011" >
+<rem:trace source = "IRQ-0003"  target = "OBJ-0006" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0004"  target = "OBJ-0007" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0002"  target = "OBJ-0005" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0004"  target = "OBJ-0005" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "FRQ-0001"  target = "IRQ-0003" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "FRQ-0002"  target = "IRQ-0002" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "FRQ-0003"  target = "OBJ-0004" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "FRQ-0004"  target = "IRQ-0003" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0005"  target = "OBJ-0009" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "FRQ-0005"  target = "IRQ-0003" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "OBJ-0011"  target = "NFR-0007" >
+<rem:trace source = "FRQ-0006"  target = "OBJ-0007" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "IRQ-0004"  target = "OBJ-0008" >
+<rem:trace source = "IRQ-0006"  target = "OBJ-0009" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "FRQ-0004"  target = "IRQ-0002" >
+<rem:trace source = "IRQ-0007"  target = "OBJ-0008" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "UC-0004"  target = "OBJ-0007" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "UC-0005"  target = "GLO-0008" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0001"  target = "OBJ-0004" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "GRF-0002"  target = "UC-0001" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "UC-0003"  target = "OBJ-0006" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "UC-0003"  target = "OBJ-0005" >
+<rem:trace source = "UC-0001"  target = "OBJ-0004" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "OBJ-0004"  target = "UC-0001" >
@@ -5134,61 +5359,37 @@ Ninguno
 <rem:trace source = "GLO-0008"  target = "UC-0001" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "UC-0007"  target = "OBJ-0011" >
+<rem:trace source = "UC-0005"  target = "GLO-0008" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "GRF-0002"  target = "UC-0001" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "UC-0003"  target = "OBJ-0005" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "UC-0003"  target = "OBJ-0006" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "UC-0004"  target = "OBJ-0007" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "UC-0003"  target = "OBJ-0004" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "UC-0006"  target = "OBJ-0012" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "UC-0006"  target = "OBJ-0009" >
-<rem:isChecked/>
-</rem:trace>
 <rem:trace source = "UC-0005"  target = "OBJ-0008" >
 <rem:isChecked/>
 </rem:trace>
+<rem:trace source = "UC-0007"  target = "OBJ-0011" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "UC-0006"  target = "OBJ-0009" >
+<rem:isChecked/>
+</rem:trace>
 <rem:predefinedValueTypes>
-<rem:predefinedValueType
- oid = "PVT-0001">
-<rem:name>
-Real</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2000</rem:year>
-<rem:month>10</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>
-Predefined OCL type</rem:comments>
-<rem:description>
-Real numbers</rem:description>
-<rem:definition>
-(null)
-</rem:definition>
-</rem:predefinedValueType>
-<rem:predefinedValueType
- oid = "PVT-0004">
-<rem:name>
-String</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2000</rem:year>
-<rem:month>10</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>
-Predefined OCL type</rem:comments>
-<rem:description>
-Alphanumeric strings</rem:description>
-<rem:definition>
-(null)
-</rem:definition>
-</rem:predefinedValueType>
 <rem:predefinedValueType
  oid = "PVT-0002">
 <rem:name>
@@ -5232,9 +5433,9 @@ Natural numbers</rem:description>
 </rem:definition>
 </rem:predefinedValueType>
 <rem:predefinedValueType
- oid = "PVT-0005">
+ oid = "PVT-0004">
 <rem:name>
-Date</rem:name>
+String</rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
@@ -5245,9 +5446,9 @@ Date</rem:name>
 </rem:date>
 </rem:version>
 <rem:comments>
-Predefined OCL type (non-standard)</rem:comments>
+Predefined OCL type</rem:comments>
 <rem:description>
-Dates</rem:description>
+Alphanumeric strings</rem:description>
 <rem:definition>
 (null)
 </rem:definition>
@@ -5273,10 +5474,61 @@ Hour:minutes:seconds</rem:description>
 (null)
 </rem:definition>
 </rem:predefinedValueType>
+<rem:predefinedValueType
+ oid = "PVT-0001">
+<rem:name>
+Real</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2000</rem:year>
+<rem:month>10</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Predefined OCL type</rem:comments>
+<rem:description>
+Real numbers</rem:description>
+<rem:definition>
+(null)
+</rem:definition>
+</rem:predefinedValueType>
+<rem:predefinedValueType
+ oid = "PVT-0005">
+<rem:name>
+Date</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2000</rem:year>
+<rem:month>10</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Predefined OCL type (non-standard)</rem:comments>
+<rem:description>
+Dates</rem:description>
+<rem:definition>
+(null)
+</rem:definition>
+</rem:predefinedValueType>
 </rem:predefinedValueTypes>
 <rem:predefinedValues>
+<rem:changeRequestStatusValue oid = "CRV-0005">
+<rem:name>verificado</rem:name>
+</rem:changeRequestStatusValue>
 <rem:changeRequestStatusValue oid = "CRV-0001">
 <rem:name>PD</rem:name>
+</rem:changeRequestStatusValue>
+<rem:changeRequestStatusValue oid = "CRV-0006">
+<rem:name>rechazado</rem:name>
+</rem:changeRequestStatusValue>
+<rem:changeRequestStatusValue oid = "CRV-0004">
+<rem:name>pendiente de realización</rem:name>
 </rem:changeRequestStatusValue>
 <rem:changeRequestStatusValue oid = "CRV-0002">
 <rem:name>pendiente de análisis</rem:name>
@@ -5284,38 +5536,29 @@ Hour:minutes:seconds</rem:description>
 <rem:changeRequestStatusValue oid = "CRV-0003">
 <rem:name>pendiente de aprobar/rechazar</rem:name>
 </rem:changeRequestStatusValue>
-<rem:changeRequestStatusValue oid = "CRV-0004">
-<rem:name>pendiente de realización</rem:name>
-</rem:changeRequestStatusValue>
-<rem:changeRequestStatusValue oid = "CRV-0005">
-<rem:name>verificado</rem:name>
-</rem:changeRequestStatusValue>
-<rem:changeRequestStatusValue oid = "CRV-0006">
-<rem:name>rechazado</rem:name>
-</rem:changeRequestStatusValue>
-<rem:conflictStatusValue oid = "CSV-0003">
-<rem:name>en proceso de negociación</rem:name>
+<rem:conflictStatusValue oid = "CSV-0004">
+<rem:name>resuelto</rem:name>
 </rem:conflictStatusValue>
 <rem:conflictStatusValue oid = "CSV-0002">
 <rem:name>no resuelto</rem:name>
 </rem:conflictStatusValue>
-<rem:conflictStatusValue oid = "CSV-0004">
-<rem:name>resuelto</rem:name>
-</rem:conflictStatusValue>
 <rem:conflictStatusValue oid = "CSV-0001">
 <rem:name>PD</rem:name>
 </rem:conflictStatusValue>
-<rem:defectStatusValue oid = "DSV-0003">
+<rem:conflictStatusValue oid = "CSV-0003">
 <rem:name>en proceso de negociación</rem:name>
-</rem:defectStatusValue>
-<rem:defectStatusValue oid = "DSV-0002">
-<rem:name>no eliminado</rem:name>
-</rem:defectStatusValue>
+</rem:conflictStatusValue>
 <rem:defectStatusValue oid = "DSV-0001">
 <rem:name>PD</rem:name>
 </rem:defectStatusValue>
 <rem:defectStatusValue oid = "DSV-0004">
 <rem:name>eliminado</rem:name>
+</rem:defectStatusValue>
+<rem:defectStatusValue oid = "DSV-0003">
+<rem:name>en proceso de negociación</rem:name>
+</rem:defectStatusValue>
+<rem:defectStatusValue oid = "DSV-0002">
+<rem:name>no eliminado</rem:name>
 </rem:defectStatusValue>
 <rem:defectTypeValue oid = "DTV-0017">
 <rem:name>Organización incorrecta</rem:name>
@@ -5341,40 +5584,16 @@ Hour:minutes:seconds</rem:description>
 <![CDATA[El requisito o requisitos no están trazados hacia sus orígenes, bien requisitos de nivel superior (objetivos), bien clientes y usuarios]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0009">
-<rem:name>Dependiente del diseño</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos incluyen elementos dependientes del diseño del sistema]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0010">
-<rem:name>Redundancia</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos son redundantes o contienen elementos redundantes]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0012">
-<rem:name>Incompleción</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no describen todo lo que el sistema se supone que deberá hacer, no describen las respuestas del sistema a todas las posibles situaciones o incluyen elementos por determinar (PD)]]>
-</rem:description>
-</rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0001">
 <rem:name>PD</rem:name>
 <rem:description>
 <![CDATA[Por Determinar]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0002">
-<rem:name>Ambigüedad</rem:name>
+<rem:defectTypeValue oid = "DTV-0005">
+<rem:name>No verificabilidad</rem:name>
 <rem:description>
-<![CDATA[El requisito o requisitos, aunque comprensibles, tienen más de una interpretación posible]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0013">
-<rem:name>Prioridad no establecida</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no tienen establecida su prioridad, es decir, su importancia y su urgencia]]>
+<![CDATA[No se puede comprobar que el sistema satisface el requisito o requisitos]]>
 </rem:description>
 </rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0008">
@@ -5383,16 +5602,22 @@ Hour:minutes:seconds</rem:description>
 <![CDATA[El requisito o requisitos pueden expresarse de forma más concisa sin alterar su significado]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0003">
-<rem:name>No necesidad</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no son necesarios porque no contribuyen a satisfacer ninguna necesidad de clientes o usuarios]]>
-</rem:description>
-</rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0007">
 <rem:name>No implementabilidad</rem:name>
 <rem:description>
 <![CDATA[El requisito o requisitos no pueden ser implementados con la tecnología actual o dentro de un coste razonable]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0010">
+<rem:name>Redundancia</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos son redundantes o contienen elementos redundantes]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0002">
+<rem:name>Ambigüedad</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos, aunque comprensibles, tienen más de una interpretación posible]]>
 </rem:description>
 </rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0011">
@@ -5407,92 +5632,101 @@ Hour:minutes:seconds</rem:description>
 <![CDATA[El requisito o requisitos no pueden ser entendidos por algún lector]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0014">
-<rem:name>Estabilidad no establecida</rem:name>
-<rem:description>
-<![CDATA[El requisito o requisitos no tienen estimada su estabilidad]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0005">
-<rem:name>No verificabilidad</rem:name>
-<rem:description>
-<![CDATA[No se puede comprobar que el sistema satisface el requisito o requisitos]]>
-</rem:description>
-</rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0006">
 <rem:name>Inconsistencia</rem:name>
 <rem:description>
 <![CDATA[El requisito o requisitos no son consistentes, es decir, presentan contradicciones internas o entre varios]]>
 </rem:description>
 </rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0012">
+<rem:name>Incompleción</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no describen todo lo que el sistema se supone que deberá hacer, no describen las respuestas del sistema a todas las posibles situaciones o incluyen elementos por determinar (PD)]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0013">
+<rem:name>Prioridad no establecida</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no tienen establecida su prioridad, es decir, su importancia y su urgencia]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0014">
+<rem:name>Estabilidad no establecida</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no tienen estimada su estabilidad]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0003">
+<rem:name>No necesidad</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos no son necesarios porque no contribuyen a satisfacer ninguna necesidad de clientes o usuarios]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0009">
+<rem:name>Dependiente del diseño</rem:name>
+<rem:description>
+<![CDATA[El requisito o requisitos incluyen elementos dependientes del diseño del sistema]]>
+</rem:description>
+</rem:defectTypeValue>
 <rem:importanceValue oid = "IMV-0001">
 <rem:name>PD</rem:name>
-</rem:importanceValue>
-<rem:importanceValue oid = "IMV-0003">
-<rem:name>importante</rem:name>
 </rem:importanceValue>
 <rem:importanceValue oid = "IMV-0002">
 <rem:name>vital</rem:name>
 </rem:importanceValue>
+<rem:importanceValue oid = "IMV-0003">
+<rem:name>importante</rem:name>
+</rem:importanceValue>
 <rem:importanceValue oid = "IMV-0004">
 <rem:name>quedaría bien</rem:name>
 </rem:importanceValue>
-<rem:stabilityValue oid = "SBV-0001">
-<rem:name>PD</rem:name>
-</rem:stabilityValue>
-<rem:stabilityValue oid = "SBV-0003">
-<rem:name>media</rem:name>
-</rem:stabilityValue>
 <rem:stabilityValue oid = "SBV-0004">
 <rem:name>alta</rem:name>
 </rem:stabilityValue>
 <rem:stabilityValue oid = "SBV-0002">
 <rem:name>baja</rem:name>
 </rem:stabilityValue>
+<rem:stabilityValue oid = "SBV-0001">
+<rem:name>PD</rem:name>
+</rem:stabilityValue>
+<rem:stabilityValue oid = "SBV-0003">
+<rem:name>media</rem:name>
+</rem:stabilityValue>
+<rem:statusValue oid = "STV-0002">
+<rem:name>en construcción</rem:name>
+</rem:statusValue>
 <rem:statusValue oid = "STV-0001">
 <rem:name>PD</rem:name>
 </rem:statusValue>
 <rem:statusValue oid = "STV-0003">
 <rem:name>pendiente de verificación</rem:name>
 </rem:statusValue>
-<rem:statusValue oid = "STV-0005">
-<rem:name>validado</rem:name>
-</rem:statusValue>
-<rem:statusValue oid = "STV-0002">
-<rem:name>en construcción</rem:name>
-</rem:statusValue>
 <rem:statusValue oid = "STV-0004">
 <rem:name>pendiente de validación</rem:name>
 </rem:statusValue>
+<rem:statusValue oid = "STV-0005">
+<rem:name>validado</rem:name>
+</rem:statusValue>
+<rem:terminationValue oid = "TEV-0002">
+<rem:name>continúa</rem:name>
+</rem:terminationValue>
 <rem:terminationValue oid = "TEV-0001">
 <rem:name>PD</rem:name>
 </rem:terminationValue>
 <rem:terminationValue oid = "TEV-0003">
 <rem:name>queda sin efecto</rem:name>
 </rem:terminationValue>
-<rem:terminationValue oid = "TEV-0002">
-<rem:name>continúa</rem:name>
-</rem:terminationValue>
-<rem:timeUnitValue oid = "TUV-0001">
-<rem:name>PD</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0008">
-<rem:name>día(s)</rem:name>
+<rem:timeUnitValue oid = "TUV-0005">
+<rem:name>mes(es)</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0007">
 <rem:name>semana(s)</rem:name>
 </rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0009">
-<rem:name>hora(s)</rem:name>
+<rem:timeUnitValue oid = "TUV-0001">
+<rem:name>PD</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0002">
 <rem:name>año(s)</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0005">
-<rem:name>mes(es)</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0013">
-<rem:name>centésima(s) de segundo</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0012">
 <rem:name>décima(s) de segundo</rem:name>
@@ -5500,14 +5734,23 @@ Hour:minutes:seconds</rem:description>
 <rem:timeUnitValue oid = "TUV-0014">
 <rem:name>milisegundo(s)</rem:name>
 </rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0008">
+<rem:name>día(s)</rem:name>
+</rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0011">
 <rem:name>segundo(s)</rem:name>
+</rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0013">
+<rem:name>centésima(s) de segundo</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0010">
 <rem:name>minuto(s)</rem:name>
 </rem:timeUnitValue>
-<rem:urgencyValue oid = "URV-0002">
-<rem:name>inmediatamente</rem:name>
+<rem:timeUnitValue oid = "TUV-0009">
+<rem:name>hora(s)</rem:name>
+</rem:timeUnitValue>
+<rem:urgencyValue oid = "URV-0001">
+<rem:name>PD</rem:name>
 </rem:urgencyValue>
 <rem:urgencyValue oid = "URV-0004">
 <rem:name>puede esperar</rem:name>
@@ -5515,8 +5758,8 @@ Hour:minutes:seconds</rem:description>
 <rem:urgencyValue oid = "URV-0003">
 <rem:name>hay presión</rem:name>
 </rem:urgencyValue>
-<rem:urgencyValue oid = "URV-0001">
-<rem:name>PD</rem:name>
+<rem:urgencyValue oid = "URV-0002">
+<rem:name>inmediatamente</rem:name>
 </rem:urgencyValue>
 </rem:predefinedValues>
 </rem:requirementsProject>
